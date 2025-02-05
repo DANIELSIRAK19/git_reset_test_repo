@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Different content" 
+=======
+"Conflicting line" 
+>>>>>>> three_way_merge_branch
